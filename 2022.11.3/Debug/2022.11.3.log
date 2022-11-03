@@ -1,0 +1,4 @@
+﻿  源.c
+C:\C   Project\2022.11.3\源.c(9,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\C   Project\2022.11.3\源.c(11,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  2022.11.3.vcxproj -> C:\C   Project\2022.11.3\Debug\2022.11.3.exe
