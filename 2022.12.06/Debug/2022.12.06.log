@@ -1,0 +1,4 @@
+﻿  源.c
+C:\C   Project\2022.12.06\源.c(25,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\C   Project\2022.12.06\源.c(19): warning C4715: “check”: 不是所有的控件路径都返回值
+  2022.12.06.vcxproj -> C:\C   Project\2022.12.06\Debug\2022.12.06.exe
